@@ -1,4 +1,5 @@
-# Policy Gradient using Gaussian Distribution
+# Understanding Policy Gradient using Gaussian Distribution
+Here is a summary of the comparitive study of Four different reward functions were used to achieve the aim of finding minima of the functions of two variables x and y.
 
 ### Aim
 The aim is to find minima of the functions of type <img src="http://www.sciweavers.org/tex2img.php?eq=ax%5E2%20%2B%20by%5E2%20%2B%20cxy%20%2B%20dx%20%2B%20ey%20%2B%20f&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align = "center">
